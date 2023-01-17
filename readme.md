@@ -8,7 +8,7 @@ If you don't have gource available locally follow the installation guide found o
 
 The source and documentation is found on GitHub [https://github.com/acaudwell/Gource](https://github.com/acaudwell/Gource)
 
-> Please donate to this project if you use it. It is a great tool.
+> Please donate to the gource.io project if you use it. It is a great tool.
 
 **Installation**
 
