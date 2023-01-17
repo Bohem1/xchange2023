@@ -4,9 +4,13 @@ This repo contains code and data to show example use of the gource visualization
 
 ## Setup
 
-If you don't have gource available locally follow the installation guide found on the website [https://gource.io](https://gource.io)
+If you don't have gource available locally follow the installation guide found on the website [https://gource.io](https://gource.io).
 
-Manual installation
+The source and documentation is found on GitHub [https://github.com/acaudwell/Gource](https://github.com/acaudwell/Gource)
+
+> Please donate to this project if you use it. It is a great tool.
+
+**Installation**
 
 You can download the executable and extract it into the bin folder in this repo.
 
